@@ -20,7 +20,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 📂 Project Structure
 
----
+```
 tic-tac-toe/
 │── index.html
 │── style.css
@@ -30,9 +30,7 @@ tic-tac-toe/
 │── music.mp3
 │── ting.mp3
 │── favicon.ico
-
-
----
+```
 
 ## 🧠 What I Learned
 
