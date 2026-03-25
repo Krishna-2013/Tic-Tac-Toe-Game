@@ -41,11 +41,12 @@ tic-tac-toe/
 
 ## 📸 Preview
 
-(Add a screenshot or GIF here if you want — skipping this makes your project look unfinished)
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/cc373319-5621-4291-a7e4-30d5db16851c" />
+
 
 ## 🔗 Live Demo
 
-(Add your deployed link here — GitHub Pages, Netlify, etc.)
+https://krishna-2013.github.io/Tic-Tac-Toe-Game/
 
 ## 📌 Future Improvements
 
